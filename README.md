@@ -9,3 +9,7 @@ I created this to collaborate with community members on small scense for events,
 Terms of Use:
 
 By submitting your work to this repository you achknowledge that it will be compiled and uploaded to AltSpace Vr, reliquishing your intilectual property to the Microsoft Coorperation. In no way is this harmful and is intented to protect the rightful property of Microsoft, but you should be aware regardless.
+
+
+To submit and view the project easier please download the desktop client for github from:
+https://desktop.github.com/
